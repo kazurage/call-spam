@@ -31,7 +31,7 @@ def main ():
 
 	someVars()
 
-	print ('''Instagram владельца: extasia.space''')
+	print ('''Telegram владельца: @kazurage''')
 	tprint("call-spam")
 
 	phoneNum = input ('Номер телефона жертвы: ')
